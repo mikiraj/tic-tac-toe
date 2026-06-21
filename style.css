@@ -1,0 +1,24 @@
+div{
+    background-color: aqua;
+
+    border: 2px black solid;
+
+}
+
+#score-board{
+    display: flex;
+
+}
+
+#game-board{
+    display: flex;
+    flex-wrap: wrap;
+    width: 410px;
+    height: 410px;
+
+}
+.piece{
+    width: 130px;
+    height: 130px;
+    font-size: xx-large;
+}
